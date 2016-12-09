@@ -4,6 +4,10 @@ Collection of usefull examples of QGIS Platform.
 
 QGIS is a free, open source, cross platform (lin/win/mac) geographical information
 
+## Keyword
+
+QGIS , geographical information , node js, map, examples, gis, sistemas de informacion geografica, maps, python, programaccion, google maps
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
