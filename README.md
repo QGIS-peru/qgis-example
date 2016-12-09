@@ -38,8 +38,11 @@ A step by step series of examples that tell you have to get a development env ru
 
 ### QGIS Google Map
 
-- Hello World Google Map
+- Hello World Google Maps
 
+### QGIS Open Street Maps
+
+- Hello World Open Street Maps
 
 ## Built With
 
