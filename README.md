@@ -1,4 +1,4 @@
-# QGIS PERU Examples
+# QGIS PERU
 
 Collection of usefull examples of QGIS Platform.
 
